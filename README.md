@@ -4,8 +4,8 @@
 
 ## Features
 
-- Prevents Selene's encounter from being offered until after you have at least one boon from a main Olympian god (e.g., Zeus, Hera, etc.).
-- A useful routing tool for speedruns or challenge runs where you want to control when Selene appears.
+- Prevents Selene's Gift from being offered until after you have at least one boon from a main Olympian god or a Daedalus Hammer.
+
 
 ## Installation
 
