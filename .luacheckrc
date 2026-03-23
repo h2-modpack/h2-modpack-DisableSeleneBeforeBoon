@@ -8,10 +8,12 @@ globals = {
     "game", 
     "chalk", 
     "reload", 
-    "_PLUGIN" 
+    "_PLUGIN"
     }
 read_globals = { 
     "imgui", 
     "import_as_fallback", 
-    "import" 
+    "import" ,
+    "SetupRunData",
+    "NamedRequirementsData"
     }
